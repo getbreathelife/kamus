@@ -1,4 +1,4 @@
-FROM node:14.18.3-alpine3.14
+FROM node:14.19.1-alpine3.15
 
 RUN mkdir /home/node/app
 # Create app directory
